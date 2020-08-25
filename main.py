@@ -2,6 +2,7 @@ from datetime import datetime
 from notion.block import TodoBlock
 import re
 
+
 import requests
 from flask import Flask, request
 import urllib.request
