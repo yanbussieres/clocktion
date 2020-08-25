@@ -9,7 +9,6 @@ import json
 from notion.client import NotionClient
 
 
-
 app = Flask(__name__)
 
 CLIENT = NotionClient(
